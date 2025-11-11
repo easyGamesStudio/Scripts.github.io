@@ -40,7 +40,7 @@ _G.HighlightColor = Color3.fromRGB(255, 0, 0)
 
 -- Bridge Esp
 local Outlines = {}
-_G.OutlineToggle = true
+_G.OutlineToggle = false
 _G.OutlineColor = Color3.fromRGB(255, 0, 0)
 _G.OutlineTransparency = 0.3
 _G.OutlineSizeOffset = 0.05
