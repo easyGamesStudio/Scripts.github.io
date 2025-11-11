@@ -241,7 +241,7 @@ m_box1:AddSlider('BridgeOffset', {
 
 m_box1:AddToggle('AlwaysOnTop', {
     Text = 'Always on-top',
-    Default = true, -- Default value (true / false)
+    Default = false, -- Default value (true / false)
     Tooltip = 'Set esp always on-top!', -- Information shown when you hover over the toggle
 
     Callback = function(Value)
